@@ -7,3 +7,12 @@ It listens on port 3307 which you can actually use as an ad hoc MySQL database s
 It has already taken into account, the often frustrating TimeZone error that happens with first time users, so this is basically 'plug and play' code for getting up and running quickly with embedded MariaDB.
 
 Enjoy! 
+
+### Version Notes
+
+
+### 1.1
+- Updated Dependencies to latest version to patch security vulnerabilities.
+
+### 1.0-SNAPSHOT
+- Initial release
