@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b9875b8-92b0-4a4d-bfb3-1a17ce780df0" name="Default Changelist" comment="" />
+    <list default="true" id="5b9875b8-92b0-4a4d-bfb3-1a17ce780df0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_exec_exec_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_mariaDB4j_mariaDB4j_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_mariaDB4j_mariaDB4j_core_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_mariaDB4j_mariaDB4j_db_linux64_10_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_mariaDB4j_mariaDB4j_db_mac64_10_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_vorburger_mariaDB4j_mariaDB4j_db_win32_10_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MariaDBEmbededQuickStart.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,27 +43,48 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EasyG0ing1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EasyG0ing1/MariaDBEmbededQuickStart.git&quot;,
+    &quot;accountId&quot;: &quot;4f0963f7-8fed-42d6-b7da-f827703de09b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="1esQQkYu2carKS9rer89ELnOQZ3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.31724137" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/michael/JetBrainsProjects/IntelliJIdea/MariaDBEmbededQuickStart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Notebook.Style",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -53,6 +99,15 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,40 +119,24 @@
       <option name="presentableId" value="Default" />
       <updated>1595107806469</updated>
       <workItem from="1595107808182" duration="2406000" />
+      <workItem from="1733445895495" duration="2456000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated dependencies to latest versions to patch security vulnerabilities.">
+      <option name="closed" value="true" />
+      <created>1733447929528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733447929529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="334" y="133" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595107835566">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="334" y="133" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.829@0.23.1440.829" timestamp="1595107835566" />
-    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1595110243578">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1595109928078" />
-    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1595110243578" />
-    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1595110243577">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1595109928077" />
-    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1595110243577" />
-    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1595110243577">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1595109928077" />
-    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1595110243577" />
-    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1595110243578">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1595109928078" />
-    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1595110243578" />
-    <state x="208" y="23" width="1024" height="829" key="SettingsEditor" timestamp="1595109872184">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="208" y="23" width="1024" height="829" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1595109872184" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated dependencies to latest versions to patch security vulnerabilities." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated dependencies to latest versions to patch security vulnerabilities." />
   </component>
 </project>
